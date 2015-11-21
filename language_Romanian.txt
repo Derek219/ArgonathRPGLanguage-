@@ -1,0 +1,62 @@
+LOGIN_WELCM1 - Te-ai logat cu succes,<playername>
+LOGIN_WELCM2 - Bine ai venit la Argonath RPG, RS5.
+LOGIN_MFERR1 - Autentificarea multi-factor nu este activata. Incearca mai tarziu.
+LOGIN_MFERR2 - Eroare: codul a fost introdus gresit.
+LOGIN_MF1    - Contul tau are activata autentificarea multi-factor. Introdu codul afisat in aplicatia Google Authenticator
+LOGIN_PASSER1- Eroare: Parolele nu sunt la fel, ai grija la CAPS.
+LOGIN_PASSER2- EEroare: Ai introdus o parola gresita.
+LOGIN_PASS2  - Te rog repeta parola pe care ai ales-o.
+LOGIN_QUIT   - Esti sigur ca vrei sa iesi de pe server?
+LOGIN_ADULT  - Atentie: Serverul contine elemente care pot fi considerate doar pentru adulti.
+LOGIN_BYE1   - Ai ales sa iesi de pe server.
+ERROR_NOTLOG - Eroare: Nu te-ai logat.
+ERROR_KICK   - Eroare: Nu poti face comanda asta acum.
+ECON_RELOAD  - [ALERTA] Datele tale de economie sunt reluate.
+TXT_Login0   - Bine ai venit la Argonath RPG.
+TXT_Login1   - O lume pe cont propriu.
+CMD_TIME     - Timpul serverului in viata reala este {Time} (CET - Central European Time).
+CMD_TD       - Ceasul este {time} server time (CET - Central European Time), the date is {date}
+CMD_DATE     - Data este {date}.
+MONTH_1      - Ianuarie 
+MONTH_2      - Februarie.
+MONTH_3      - Martie.
+MONTH_4      - Aprilie.   
+MONTH_5      - Mai.
+MONTH_6      - Iunie.
+MONTH_7      - Iulie.
+MONTH_8      - August
+MONTH_9      - Septembrie.
+MONTH_10     - Octombrie.
+MONTH_11     - Noiembrie.
+MONTH_12     - Decembrie.
+
+// Other
+RES_COMBAT   - Nu poti face asta cand te lupti.
+RES_NODONE	 - Eroare : Nu poti face asta din cauza unui bug.
+
+// Economy
+ECON_ATM_TY  - Multumim pentru ca folosesti ATM al Argonath RPG.
+ECON_ATM_NC  - Eroare: Nu esti la ATM.
+ECON_ATM_CIV - Nu ai un cont de banca pe acest cont. Trebuie sa fi cetatean legal.
+ECON_ATM_LIM - Eroare: Nu poti scoate mai mult de $100 000 de la ATM. Viziteaza Banca.
+ECON_ATM_POS - Eroare: Poti scoate de la banca doar o valoare pozitiva.
+ECON_ATM_1m  - Eroare: Trebuie sa astepti inainte sa folosesti ATM iarasi.
+ECON_BNK_N10 - Eroare: Nu poate sa depaseasca 10 caractere.
+ECON_BNK_DBT - Banca: Conturile tale sunt inghetate.
+ECON_BNK_ACC - Contul bancar nu exista sau nu ai acces la el.
+ECON_BNK_FKT - A fost o eroare cu contul-sursa
+ECON_BNK_LRG - Eroare: Valoarea este prea mare.
+ECON_BNK_MIN - Eroare: Valoarea minima este de $1.
+ECON_BNK_FUN - Eroare: Nu ai destui bani pentru a depozita aceasta suma.
+ECON_BNK_WNSF- Nu ai destule fonduri pentru a completa aceasta cerere.
+ECON_BNK_TY  - Multumim pentru ca ai vizitat banca Argonath RPG.
+ECON_BNK_REJ - Tranzactie respinsa, fondurile nu vor fi transferate.
+ECON_BNK_PART- Partenerul tau trebuie sa fie in banca.
+ECON_BNK_PSLF- Nu poti deschide un cont de partener doar cu tine insuti.
+ECON_BNK_PNO - Ai selectat sa nu creezi un cont bancar.
+ECON_BNK_PPNO- Partenerul tau a refuzat cererea ta de a deschide un cont bancar.
+ECON_BNK_LOAD- Eroare: Banii tai nu sunt disponibili momentan,te rog asteapta.
+ECON_BNK_BNK - Eroare: Trebuie sa fi in banca.
+ECON_BNK_CIV - Eroare: Nu dam voie la imigranti sa deschida conturi bancare. Ai nevoie de pasaport.
+ECON_BNK_CRI - Eroare: Banca este inchisa datorita unei crize financiare.
+ECON_BNK_GRP - Eroare: Te rog foloseste /groupbank ca sa scoti/depozitezi bani dintr-un cont bancar al unui grup.
